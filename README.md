@@ -28,7 +28,7 @@ Display a dual-axis bar chart and line chart, illustrating monthly post activity
 ## Newsfeed User Engagement Chart 
 Utilizes a horizontal bar chart to showcase user engagement on newsfeed. The Newsfeed user engagement metrics provides a comprehensive snapshot of platform activity. With 3,956 Visits, the platform demonstartes a significant level of user interaction. Active users totaling 405, contribute to the dynamic environment. Liked content stands at 362 showcasing positive user interactions, While Comments and Posts have respective counts of 111 and 47, enriching the overall user engagement landscape. This insight underscores the varied ways users engage with the Newsfeed, offering valuable data for platform optimization and user experience enhancement.  
 
-![Screenshot (20)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/ba9d222e-3b0b-49dc-bfb9-4be4bb6d9004)
+![Screenshot (23)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/2d5eb42f-dd2f-48b0-812d-738408e77601)
 
 ## Subtype Post Distribution Chart
 Presents a horizontal bar chart illustrating the distribution of post subtypes. The distribution of post subtypes offers a nuanced view of user activity. Level post lead with 22,313 posts, closely followed by Course Certificates at 11,199 posts, Collection with 9,376 posts, Streaks with 3,413 posts, and Goals with 1,616 posts, contribute significantly, while Text post with 150 posts and Career track certificates post with 144 posts. This insight sheds light on the content landscape within the platform, showcasing user engagement across various post subtypes.
@@ -43,8 +43,7 @@ Feature a horizontal bar chart reflecting subtype popularity based on likes, rev
 ## Subtype Popularity by Comments
 Employs a horizontal bar chart to depict subtype popularity measured by comments. Analyzing post subtype popularity based on comments unveils distinctive user interactions. Text post lead with 102 comments, followed by Level post with 31 comments and Course Certificates post with 21 comments. Career track certificate post with and Streaks post generate engagement with 18 and 10 comments, Goals post and Collections post receive 3 comments each. This insights not only quantifies user interactions but also highlights the varying degrees of engagement across different post subtypes on the platform.
 
-![Screenshot (23)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/2d5eb42f-dd2f-48b0-812d-738408e77601)
-
+![Screenshot (20)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/ba9d222e-3b0b-49dc-bfb9-4be4bb6d9004)
 
 ## Conclusion
 These charts collectively provide valuable insights into monthly trends, user engagement, post subtype distribution, and popularity metrics, enhancing the overall understanding of the Newsfeed dynamics.
