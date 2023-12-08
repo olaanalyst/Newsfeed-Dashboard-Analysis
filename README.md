@@ -6,6 +6,7 @@ Newsfeed is a part of a website that constantly updates with new content, showin
 Checkout Dashboard on Tableau public (https://public.tableau.com/app/profile/komolafe.oladayo)
 
 ## Data source
+The data used in these project was sourced from a comprehensive study involving 365 Data Science Platforms.
 
 ## Problem statement
 Faced with the challenge of comprehensively analyzing user engagement on a newsfeed dashboard, the need arose to delve into monthly post activity and average likes. Additionally, understanding the distribution of post subtype and identifying the factors influencing subtype popularity through likes and comments presented complexities in the analysis.
