@@ -5,12 +5,13 @@ Newsfeed is a part of a website that constantly updates with new content, showin
 
 Checkout Dashboard on Tableau public (https://public.tableau.com/app/profile/komolafe.oladayo)
 
-## AIM
-- The aim of this project is to demonstrate my proficiency in data visual representation, ultilizing Tableau tools.  
-- The aim of this project is to conduct a comprehensive analysis of the newsfeed data gathered between January-01-2023 to May-31-2023.
+## Data source
 
-## Task
-The task is to create several visualizations giving crucial information about the Newsfeed and how the users react to it.
+## Problem statement
+Faced with the challenge of comprehensively analyzing user engagement on a newsfeed dashboard, the need arose to delve into monthly post activity and average likes. Additionally, understanding the distribution of post subtype and identifying the factors influencing subtype popularity through likes and comments presented complexities in the analysis.
+
+## Solution
+To tackle these challenges, I devised a solution-oriented approach within the newsfeed dashboard. Implemented a structured system to capture and visualize monthly post activity alongside average likes, providing a clear picture of user engagement trends over time. Introduced a detailed examination of post subtype, revealing their distribution and popularity factors based on likes and comments. This strategic solution enhanced the depth of insights gained from the newsfeed, offering a comprehensive overview of user interaction dynamics.
 
 ## Visualization
 For Newsfeed Dashboard Analysis i created different chart for better display findings and communicate analysis.
@@ -20,17 +21,17 @@ For Newsfeed Dashboard Analysis i created different chart for better display fin
 ## Insights
 In my project, i've incorporated a dynamic newsfeed dashboard feacturing:
 
-## Monthly Post Activity and Average Likes Chart
+## Monthly Post Activity and Average Likes
 Display a dual-axis bar chart and line chart, illustrating monthly post activity and average likes. Examining monthly post activity and average likes provides valuable insights into user engagement patterns. In January, the platform witnessed 8,665 posts with an average of 0.10 likes per posts. Febuary had 7,235 posts with an average of 0.09 likes per post, while March had the highest post activity at 17,933 posts with a lower average like count of 0.04 , April saw 5,838 posts with a higher average like count of 0.11, and May recorded 8,540 posts with an average of 0.09 likes. This insight reveals fluctuations in both posts volume and user appreciation, offering a nuanced understanding of monthly user engagement dynamics.
 
 ![Screenshot (19)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/0e8d6c91-7e31-4b6d-ac28-2a30de6e884c)
 
-## Newsfeed User Engagement Chart 
+## Newsfeed User Engagement
 Utilizes a horizontal bar chart to showcase user engagement on newsfeed. The Newsfeed user engagement metrics provides a comprehensive snapshot of platform activity. With 3,956 Visits, the platform demonstartes a significant level of user interaction. Active users totaling 405, contribute to the dynamic environment. Liked content stands at 362 showcasing positive user interactions, While Comments and Posts have respective counts of 111 and 47, enriching the overall user engagement landscape. This insight underscores the varied ways users engage with the Newsfeed, offering valuable data for platform optimization and user experience enhancement.  
 
 ![Screenshot (23)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/2d5eb42f-dd2f-48b0-812d-738408e77601)
 
-## Subtype Post Distribution Chart
+## Subtype Post Distribution
 Presents a horizontal bar chart illustrating the distribution of post subtypes. The distribution of post subtypes offers a nuanced view of user activity. Level post lead with 22,313 posts, closely followed by Course Certificates at 11,199 posts, Collection with 9,376 posts, Streaks with 3,413 posts, and Goals with 1,616 posts, contribute significantly, while Text post with 150 posts and Career track certificates post with 144 posts. This insight sheds light on the content landscape within the platform, showcasing user engagement across various post subtypes.
 
 ![Screenshot (20)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/ba9d222e-3b0b-49dc-bfb9-4be4bb6d9004)
