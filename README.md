@@ -47,6 +47,4 @@ Employs a horizontal bar chart to depict subtype popularity measured by comments
 
 ![Screenshot (22)](https://github.com/olaanalyst/Newsfeed-Dashboard-Analysis/assets/141564936/a37636ed-c83d-4ec1-af39-7a53d16afb4d)
 
-## Conclusion
-These charts collectively provide valuable insights into monthly trends, user engagement, post subtype distribution, and popularity metrics, enhancing the overall understanding of the Newsfeed dynamics.
 
